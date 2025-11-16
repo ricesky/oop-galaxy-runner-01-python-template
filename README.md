@@ -75,7 +75,7 @@ oop-galaxy-runner-python/
 ## 1. Membuat Class Player
 
 Kita mulai dari objek yang dikendalikan pemain: **Player**.
-Untuk sementara bentuknya **kapal sederhana** (persegi panjang) yang bergerak horizontal di bagian bawah layar.
+Untuk sementara bentuknya **pesawat sederhana** (persegi panjang) yang bergerak horizontal di bagian bawah layar.
 
 Tugas `Player` di Tahap 1:
 
@@ -157,7 +157,7 @@ class Player:
 
 ## 2. Membuat Class Starfield (Background Bintang Bergerak)
 
-Starfield adalah background berupa **bintang-bintang** yang bergerak turun (seolah kapal terbang maju ke depan).
+Starfield adalah background berupa **bintang-bintang** yang bergerak turun (seolah pesawat maju ke depan).
 
 Tanggung jawab `Starfield`:
 
@@ -350,6 +350,6 @@ Jika semuanya benar, program akan menampilkan:
 
 * Background hitam kebiruan
 * Banyak bintang bergerak ke bawah
-* Sebuah kapal kecil di bagian bawah yang bisa bergerak kiri-kanan dengan tombol **← →**
+* Sebuah pesawat kecil di bagian bawah yang bisa bergerak kiri-kanan dengan tombol **← →**
 
 ---
